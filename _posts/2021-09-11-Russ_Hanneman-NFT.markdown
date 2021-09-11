@@ -12,7 +12,7 @@ Here it is!
 
 ![image tooltip here](https://media.discordapp.net/attachments/761984858771030038/886127894089306122/RussFux.png)
 
-You can find it on OpenSea [here](https://opensea.io/JaredFux/).
+You can find it on OpenSea [here](https://opensea.io/JaredFux).
 
 Russ Hanneman would have to be one of my favourite characters in Silicon Valley. This rounded rounded up billionaire (two shitty fucking commas for a minute there) flying in rented Citation Ultra, pissing in Jian Yang's vette, and busting a massive load butt-ass-nekked when minted in the billy club – I think that we can all say that **this guy fucks em I right!**
 
