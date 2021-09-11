@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NFT Collection
+title: JaredFux NFTs
 email: thecocobox2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A place where I show off my NFTs!
+  A place where I (JaredFux) show off my NFTs!
 baseurl: "/NFT-collection" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jacoboulerice
+url: "https://jaredfux.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
 github_username:  cocobox242
 
 # Build settings
