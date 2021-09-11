@@ -2,8 +2,9 @@
 layout: post
 title:  "Russ Hanneman – Russfux NFT!"
 date:   2021-09-11 02:00:36 -0400
-categories: NFT
+categories: NFTs
 ---
+
 So, I created my first NFT last night.
 
 ![image tooltip here](https://images.squarespace-cdn.com/content/v1/5dc055cdec12da56d4db1853/1573055013424-87W6Y52MAWVHER09E66G/image-asset.png?format=2500w)
