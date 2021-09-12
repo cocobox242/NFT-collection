@@ -22,7 +22,7 @@ title: JaredFux NFTs
 email: thecocobox2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place where I (JaredFux) show off my NFTs!
-baseurl: "/NFT-collection" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jaredfux.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jareddunn_piper
 github_username: cocobox242
